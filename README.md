@@ -2,7 +2,7 @@
 
 "Guess the Flag" game made with React. The user is given four countries, he supposed to choose one that corresponds to the flag.
 
-### [Demo on Heroku](http://github.allaev.com/color-game/) :point_left:
+### [Demo on Heroku](https://flags-react.herokuapp.com/) :point_left:
 
 - React
 - JSX
